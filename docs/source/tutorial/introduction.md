@@ -92,7 +92,7 @@ as your editor so you can use Apollo's helpful VS Code extension.
 git clone https://github.com/apollographql/fullstack-tutorial.git
 ```
 
-このリポジトリは一番上の階層に `start` と `final` というディレクトリがあります。このチューチルアルの作業は `start` ディレクトリの中に加えていきます。そうすると全ての作業が終わった時には `final` ディレクトリの中と一致することになるというわけです。
+このリポジトリは一番上の階層に `start` と `final` というディレクトリがあります。このチュートリアルの作業は `start` ディレクトリの中に加えていきます。そうすると全ての作業が終わった時には `final` ディレクトリの中と一致することになるというわけです。
 
 > The repository contains two top-level directories: `start` and `final`. During the
 tutorial you'll edit the files in `start`, and at the end they'll match the
@@ -109,7 +109,7 @@ building a graph API and you want to skip to the `client` portion, navigate to t
 
 > Learning a new technology can be overwhelming sometimes, and it's common to get stuck! If that happens, we recommend joining the [Apollo Spectrum community](https://spectrum.chat/apollo) and posting in the relevant channel (either `#apollo-server` or `#apollo-client`) for assistance from friendly fellow developers.
 
-もしこのチュートリアルにわかりにくい部分やエラーが含まれている場合には、フィードバックをしてください。**Edit on GitHub**　と書かれたリンクがこのページの右側にあります。これをクリックしてプルリクエストを出してください。おしくは [リポジトリでイシューを作成](https://github.com/apollographql/apollo/issues/new) していただいてもいいです。（訳注: この翻訳は[このリポジトリ](https://github.com/superyusuke/apollo-docs)でおこなっていますので、修正リクエストや翻訳の追加をおこなうこともできます。）
+もしこのチュートリアルにわかりにくい部分やエラーが含まれている場合には、フィードバックをしてください。**Edit on GitHub**　と書かれたリンクがこのページの右側にあります。これをクリックしてプルリクエストを出してください。もしくは [リポジトリでイシューを作成](https://github.com/apollographql/apollo/issues/new) していただいてもいいです。（訳注: この翻訳は[このリポジトリ](https://github.com/superyusuke/apollo-docs)でおこなっていますので、修正リクエストや翻訳の追加をおこなうこともできます。）
 
 
 > If anything in the tutorial seems confusing or contains an error, we'd love your feedback! Click the **Edit on GitHub** link on the right side of the page to open a new pull request, or [open an issue on the repository](https://github.com/apollographql/apollo/issues/new).
